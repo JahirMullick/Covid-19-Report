@@ -5,3 +5,4 @@ https://app.powerbi.com/groups/me/reports/b06e958f-4b98-43f2-91f8-ef748c4865fd/R
 
 ### Diagram ###
 
+![Blank diagram](https://user-images.githubusercontent.com/60438343/200155065-6411aed7-ae54-4e6e-8e9b-045fea4c81ac.png)
