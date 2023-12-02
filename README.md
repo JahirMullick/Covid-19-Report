@@ -4,7 +4,7 @@
 This project focuses on the data engineering aspects of handling COVID-19 data, providing a comprehensive and up-to-date dataset for analysis and research. The dataset aggregates information from various reliable sources, including health agencies, international organizations, and official APIs, to create a holistic view of the global impact of the COVID-19 pandemic.
 
 ### Source
-The original dataset can be found on [Kaggle](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo). Ensure you abide by Kaggle's terms and conditions for usage.
+The original dataset can be found on [Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report/). Ensure you abide by Kaggle's terms and conditions for usage.
 
 ## Data Description
 - **File Format**: CSV (Comma-Separated Values) or other relevant formats.
